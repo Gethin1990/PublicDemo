@@ -1,0 +1,11 @@
+D:\Code\GitHub\PublicProject\ParallelTest\ParallelTest\bin\Debug\netcoreapp2.2\ParallelTest.deps.json
+D:\Code\GitHub\PublicProject\ParallelTest\ParallelTest\bin\Debug\netcoreapp2.2\ParallelTest.runtimeconfig.json
+D:\Code\GitHub\PublicProject\ParallelTest\ParallelTest\bin\Debug\netcoreapp2.2\ParallelTest.runtimeconfig.dev.json
+D:\Code\GitHub\PublicProject\ParallelTest\ParallelTest\bin\Debug\netcoreapp2.2\ParallelTest.dll
+D:\Code\GitHub\PublicProject\ParallelTest\ParallelTest\bin\Debug\netcoreapp2.2\ParallelTest.pdb
+D:\Code\GitHub\PublicProject\ParallelTest\ParallelTest\obj\Debug\netcoreapp2.2\ParallelTest.csprojAssemblyReference.cache
+D:\Code\GitHub\PublicProject\ParallelTest\ParallelTest\obj\Debug\netcoreapp2.2\ParallelTest.csproj.CoreCompileInputs.cache
+D:\Code\GitHub\PublicProject\ParallelTest\ParallelTest\obj\Debug\netcoreapp2.2\ParallelTest.AssemblyInfoInputs.cache
+D:\Code\GitHub\PublicProject\ParallelTest\ParallelTest\obj\Debug\netcoreapp2.2\ParallelTest.AssemblyInfo.cs
+D:\Code\GitHub\PublicProject\ParallelTest\ParallelTest\obj\Debug\netcoreapp2.2\ParallelTest.dll
+D:\Code\GitHub\PublicProject\ParallelTest\ParallelTest\obj\Debug\netcoreapp2.2\ParallelTest.pdb

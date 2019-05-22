@@ -1,0 +1,11 @@
+D:\Code\GitHub\PublicProject\Algorithm\Algorithm\bin\Debug\netcoreapp2.2\Algorithm.deps.json
+D:\Code\GitHub\PublicProject\Algorithm\Algorithm\bin\Debug\netcoreapp2.2\Algorithm.runtimeconfig.json
+D:\Code\GitHub\PublicProject\Algorithm\Algorithm\bin\Debug\netcoreapp2.2\Algorithm.runtimeconfig.dev.json
+D:\Code\GitHub\PublicProject\Algorithm\Algorithm\bin\Debug\netcoreapp2.2\Algorithm.dll
+D:\Code\GitHub\PublicProject\Algorithm\Algorithm\bin\Debug\netcoreapp2.2\Algorithm.pdb
+D:\Code\GitHub\PublicProject\Algorithm\Algorithm\obj\Debug\netcoreapp2.2\Algorithm.csprojAssemblyReference.cache
+D:\Code\GitHub\PublicProject\Algorithm\Algorithm\obj\Debug\netcoreapp2.2\Algorithm.csproj.CoreCompileInputs.cache
+D:\Code\GitHub\PublicProject\Algorithm\Algorithm\obj\Debug\netcoreapp2.2\Algorithm.AssemblyInfoInputs.cache
+D:\Code\GitHub\PublicProject\Algorithm\Algorithm\obj\Debug\netcoreapp2.2\Algorithm.AssemblyInfo.cs
+D:\Code\GitHub\PublicProject\Algorithm\Algorithm\obj\Debug\netcoreapp2.2\Algorithm.dll
+D:\Code\GitHub\PublicProject\Algorithm\Algorithm\obj\Debug\netcoreapp2.2\Algorithm.pdb
